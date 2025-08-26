@@ -22,7 +22,5 @@ Aéroworld génère des téraoctets de données quotidiens (essais en vol, capte
 - **+15%** efficacité opérationnelle
 
 ## 📄 Documents
-- [📊 Analyse complète (PDF)](analyse-besoins-aeroworld.pdf)
-- [📝 Document source (Word)](analyse-besoins-aeroworld.docx)
-
+- [📝 Document source (Word)]
 ---
