@@ -16,11 +16,4 @@ Aéroworld génère des téraoctets de données quotidiens (essais en vol, capte
 - Gouvernance données renforcée
 - Centre d'excellence data analytics
 
-##  Impact Attendu
-- **-20%** coûts maintenance (prédictive analytics)
-- **+30%** time-to-market nouveaux produits  
-- **+15%** efficacité opérationnelle
 
-##  Documents
-- [ Document source (Word)]
----
